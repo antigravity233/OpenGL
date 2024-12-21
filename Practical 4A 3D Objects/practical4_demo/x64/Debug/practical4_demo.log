@@ -1,0 +1,9 @@
+﻿  p4_demo.cpp
+C:\Users\admin\source\repos\practical4_demo\practical4_demo\p4_demo.cpp(9,50): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\admin\source\repos\practical4_demo\practical4_demo\p4_demo.cpp(12,14): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\admin\source\repos\practical4_demo\practical4_demo\p4_demo.cpp(13,9): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\admin\source\repos\practical4_demo\practical4_demo\p4_demo.cpp(15,10): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\admin\source\repos\practical4_demo\practical4_demo\p4_demo.cpp(17,12): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\admin\source\repos\practical4_demo\practical4_demo\p4_demo.cpp(243,12): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\admin\source\repos\practical4_demo\practical4_demo\p4_demo.cpp(254,12): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+  practical4_demo.vcxproj -> C:\Users\admin\source\repos\practical4_demo\x64\Debug\practical4_demo.exe

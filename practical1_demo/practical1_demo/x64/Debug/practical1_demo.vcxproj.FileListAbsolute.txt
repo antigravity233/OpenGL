@@ -1,0 +1,2 @@
+E:\Practicals\Practical 1 Intro to OpenGL & Geometry Primitives\practical1_demo\practical1_demo\x64\Debug\practical1_demo.exe
+D:\Practicals\Practical 1 Intro to OpenGL & Geometry Primitives\practical1_demo\practical1_demo\x64\Debug\practical1_demo.exe

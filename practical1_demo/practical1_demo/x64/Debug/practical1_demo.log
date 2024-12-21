@@ -1,0 +1,153 @@
+﻿  p1_demo.cpp
+E:\Practicals\Practical 1 Intro to OpenGL & Geometry Primitives\practical1_demo\practical1_demo\p1_demo.cpp(10,14): warning C4305: 'initializing': truncation from 'double' to 'float'
+E:\Practicals\Practical 1 Intro to OpenGL & Geometry Primitives\practical1_demo\practical1_demo\p1_demo.cpp(13,10): warning C4305: 'initializing': truncation from 'double' to 'float'
+E:\Practicals\Practical 1 Intro to OpenGL & Geometry Primitives\practical1_demo\practical1_demo\p1_demo.cpp(90,13): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\Practicals\Practical 1 Intro to OpenGL & Geometry Primitives\practical1_demo\practical1_demo\p1_demo.cpp(91,13): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\Practicals\Practical 1 Intro to OpenGL & Geometry Primitives\practical1_demo\practical1_demo\p1_demo.cpp(92,13): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\Practicals\Practical 1 Intro to OpenGL & Geometry Primitives\practical1_demo\practical1_demo\p1_demo.cpp(93,13): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\Practicals\Practical 1 Intro to OpenGL & Geometry Primitives\practical1_demo\practical1_demo\p1_demo.cpp(99,13): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\Practicals\Practical 1 Intro to OpenGL & Geometry Primitives\practical1_demo\practical1_demo\p1_demo.cpp(100,13): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\Practicals\Practical 1 Intro to OpenGL & Geometry Primitives\practical1_demo\practical1_demo\p1_demo.cpp(101,13): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\Practicals\Practical 1 Intro to OpenGL & Geometry Primitives\practical1_demo\practical1_demo\p1_demo.cpp(102,13): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\Practicals\Practical 1 Intro to OpenGL & Geometry Primitives\practical1_demo\practical1_demo\p1_demo.cpp(107,13): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\Practicals\Practical 1 Intro to OpenGL & Geometry Primitives\practical1_demo\practical1_demo\p1_demo.cpp(108,13): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\Practicals\Practical 1 Intro to OpenGL & Geometry Primitives\practical1_demo\practical1_demo\p1_demo.cpp(109,13): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\Practicals\Practical 1 Intro to OpenGL & Geometry Primitives\practical1_demo\practical1_demo\p1_demo.cpp(110,13): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\Practicals\Practical 1 Intro to OpenGL & Geometry Primitives\practical1_demo\practical1_demo\p1_demo.cpp(115,13): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\Practicals\Practical 1 Intro to OpenGL & Geometry Primitives\practical1_demo\practical1_demo\p1_demo.cpp(116,13): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\Practicals\Practical 1 Intro to OpenGL & Geometry Primitives\practical1_demo\practical1_demo\p1_demo.cpp(117,13): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\Practicals\Practical 1 Intro to OpenGL & Geometry Primitives\practical1_demo\practical1_demo\p1_demo.cpp(118,13): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\Practicals\Practical 1 Intro to OpenGL & Geometry Primitives\practical1_demo\practical1_demo\p1_demo.cpp(132,13): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\Practicals\Practical 1 Intro to OpenGL & Geometry Primitives\practical1_demo\practical1_demo\p1_demo.cpp(133,13): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\Practicals\Practical 1 Intro to OpenGL & Geometry Primitives\practical1_demo\practical1_demo\p1_demo.cpp(134,13): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\Practicals\Practical 1 Intro to OpenGL & Geometry Primitives\practical1_demo\practical1_demo\p1_demo.cpp(135,13): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\Practicals\Practical 1 Intro to OpenGL & Geometry Primitives\practical1_demo\practical1_demo\p1_demo.cpp(140,13): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\Practicals\Practical 1 Intro to OpenGL & Geometry Primitives\practical1_demo\practical1_demo\p1_demo.cpp(147,13): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\Practicals\Practical 1 Intro to OpenGL & Geometry Primitives\practical1_demo\practical1_demo\p1_demo.cpp(148,13): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\Practicals\Practical 1 Intro to OpenGL & Geometry Primitives\practical1_demo\practical1_demo\p1_demo.cpp(155,13): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\Practicals\Practical 1 Intro to OpenGL & Geometry Primitives\practical1_demo\practical1_demo\p1_demo.cpp(156,13): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\Practicals\Practical 1 Intro to OpenGL & Geometry Primitives\practical1_demo\practical1_demo\p1_demo.cpp(157,13): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\Practicals\Practical 1 Intro to OpenGL & Geometry Primitives\practical1_demo\practical1_demo\p1_demo.cpp(158,13): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\Practicals\Practical 1 Intro to OpenGL & Geometry Primitives\practical1_demo\practical1_demo\p1_demo.cpp(170,13): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\Practicals\Practical 1 Intro to OpenGL & Geometry Primitives\practical1_demo\practical1_demo\p1_demo.cpp(171,13): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\Practicals\Practical 1 Intro to OpenGL & Geometry Primitives\practical1_demo\practical1_demo\p1_demo.cpp(172,13): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\Practicals\Practical 1 Intro to OpenGL & Geometry Primitives\practical1_demo\practical1_demo\p1_demo.cpp(173,13): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\Practicals\Practical 1 Intro to OpenGL & Geometry Primitives\practical1_demo\practical1_demo\p1_demo.cpp(178,13): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\Practicals\Practical 1 Intro to OpenGL & Geometry Primitives\practical1_demo\practical1_demo\p1_demo.cpp(179,18): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\Practicals\Practical 1 Intro to OpenGL & Geometry Primitives\practical1_demo\practical1_demo\p1_demo.cpp(179,13): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\Practicals\Practical 1 Intro to OpenGL & Geometry Primitives\practical1_demo\practical1_demo\p1_demo.cpp(180,18): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\Practicals\Practical 1 Intro to OpenGL & Geometry Primitives\practical1_demo\practical1_demo\p1_demo.cpp(180,13): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\Practicals\Practical 1 Intro to OpenGL & Geometry Primitives\practical1_demo\practical1_demo\p1_demo.cpp(181,13): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\Practicals\Practical 1 Intro to OpenGL & Geometry Primitives\practical1_demo\practical1_demo\p1_demo.cpp(186,13): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\Practicals\Practical 1 Intro to OpenGL & Geometry Primitives\practical1_demo\practical1_demo\p1_demo.cpp(187,19): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\Practicals\Practical 1 Intro to OpenGL & Geometry Primitives\practical1_demo\practical1_demo\p1_demo.cpp(187,13): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\Practicals\Practical 1 Intro to OpenGL & Geometry Primitives\practical1_demo\practical1_demo\p1_demo.cpp(188,19): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\Practicals\Practical 1 Intro to OpenGL & Geometry Primitives\practical1_demo\practical1_demo\p1_demo.cpp(188,13): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\Practicals\Practical 1 Intro to OpenGL & Geometry Primitives\practical1_demo\practical1_demo\p1_demo.cpp(189,13): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\Practicals\Practical 1 Intro to OpenGL & Geometry Primitives\practical1_demo\practical1_demo\p1_demo.cpp(194,13): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\Practicals\Practical 1 Intro to OpenGL & Geometry Primitives\practical1_demo\practical1_demo\p1_demo.cpp(195,18): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\Practicals\Practical 1 Intro to OpenGL & Geometry Primitives\practical1_demo\practical1_demo\p1_demo.cpp(195,13): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\Practicals\Practical 1 Intro to OpenGL & Geometry Primitives\practical1_demo\practical1_demo\p1_demo.cpp(196,18): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\Practicals\Practical 1 Intro to OpenGL & Geometry Primitives\practical1_demo\practical1_demo\p1_demo.cpp(196,13): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\Practicals\Practical 1 Intro to OpenGL & Geometry Primitives\practical1_demo\practical1_demo\p1_demo.cpp(197,13): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\Practicals\Practical 1 Intro to OpenGL & Geometry Primitives\practical1_demo\practical1_demo\p1_demo.cpp(202,13): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\Practicals\Practical 1 Intro to OpenGL & Geometry Primitives\practical1_demo\practical1_demo\p1_demo.cpp(203,19): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\Practicals\Practical 1 Intro to OpenGL & Geometry Primitives\practical1_demo\practical1_demo\p1_demo.cpp(203,13): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\Practicals\Practical 1 Intro to OpenGL & Geometry Primitives\practical1_demo\practical1_demo\p1_demo.cpp(204,19): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\Practicals\Practical 1 Intro to OpenGL & Geometry Primitives\practical1_demo\practical1_demo\p1_demo.cpp(204,13): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\Practicals\Practical 1 Intro to OpenGL & Geometry Primitives\practical1_demo\practical1_demo\p1_demo.cpp(205,13): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\Practicals\Practical 1 Intro to OpenGL & Geometry Primitives\practical1_demo\practical1_demo\p1_demo.cpp(218,13): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\Practicals\Practical 1 Intro to OpenGL & Geometry Primitives\practical1_demo\practical1_demo\p1_demo.cpp(219,13): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\Practicals\Practical 1 Intro to OpenGL & Geometry Primitives\practical1_demo\practical1_demo\p1_demo.cpp(220,13): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\Practicals\Practical 1 Intro to OpenGL & Geometry Primitives\practical1_demo\practical1_demo\p1_demo.cpp(221,13): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\Practicals\Practical 1 Intro to OpenGL & Geometry Primitives\practical1_demo\practical1_demo\p1_demo.cpp(226,13): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\Practicals\Practical 1 Intro to OpenGL & Geometry Primitives\practical1_demo\practical1_demo\p1_demo.cpp(227,13): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\Practicals\Practical 1 Intro to OpenGL & Geometry Primitives\practical1_demo\practical1_demo\p1_demo.cpp(228,18): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\Practicals\Practical 1 Intro to OpenGL & Geometry Primitives\practical1_demo\practical1_demo\p1_demo.cpp(233,13): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\Practicals\Practical 1 Intro to OpenGL & Geometry Primitives\practical1_demo\practical1_demo\p1_demo.cpp(234,13): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\Practicals\Practical 1 Intro to OpenGL & Geometry Primitives\practical1_demo\practical1_demo\p1_demo.cpp(235,18): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\Practicals\Practical 1 Intro to OpenGL & Geometry Primitives\practical1_demo\practical1_demo\p1_demo.cpp(240,18): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\Practicals\Practical 1 Intro to OpenGL & Geometry Primitives\practical1_demo\practical1_demo\p1_demo.cpp(240,13): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\Practicals\Practical 1 Intro to OpenGL & Geometry Primitives\practical1_demo\practical1_demo\p1_demo.cpp(241,18): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\Practicals\Practical 1 Intro to OpenGL & Geometry Primitives\practical1_demo\practical1_demo\p1_demo.cpp(241,13): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\Practicals\Practical 1 Intro to OpenGL & Geometry Primitives\practical1_demo\practical1_demo\p1_demo.cpp(242,13): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\Practicals\Practical 1 Intro to OpenGL & Geometry Primitives\practical1_demo\practical1_demo\p1_demo.cpp(247,19): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\Practicals\Practical 1 Intro to OpenGL & Geometry Primitives\practical1_demo\practical1_demo\p1_demo.cpp(247,13): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\Practicals\Practical 1 Intro to OpenGL & Geometry Primitives\practical1_demo\practical1_demo\p1_demo.cpp(248,19): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\Practicals\Practical 1 Intro to OpenGL & Geometry Primitives\practical1_demo\practical1_demo\p1_demo.cpp(248,13): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\Practicals\Practical 1 Intro to OpenGL & Geometry Primitives\practical1_demo\practical1_demo\p1_demo.cpp(249,13): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\Practicals\Practical 1 Intro to OpenGL & Geometry Primitives\practical1_demo\practical1_demo\p1_demo.cpp(262,13): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\Practicals\Practical 1 Intro to OpenGL & Geometry Primitives\practical1_demo\practical1_demo\p1_demo.cpp(263,13): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\Practicals\Practical 1 Intro to OpenGL & Geometry Primitives\practical1_demo\practical1_demo\p1_demo.cpp(264,13): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\Practicals\Practical 1 Intro to OpenGL & Geometry Primitives\practical1_demo\practical1_demo\p1_demo.cpp(265,13): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\Practicals\Practical 1 Intro to OpenGL & Geometry Primitives\practical1_demo\practical1_demo\p1_demo.cpp(272,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\Practicals\Practical 1 Intro to OpenGL & Geometry Primitives\practical1_demo\practical1_demo\p1_demo.cpp(273,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\Practicals\Practical 1 Intro to OpenGL & Geometry Primitives\practical1_demo\practical1_demo\p1_demo.cpp(291,18): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\Practicals\Practical 1 Intro to OpenGL & Geometry Primitives\practical1_demo\practical1_demo\p1_demo.cpp(293,12): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\Practicals\Practical 1 Intro to OpenGL & Geometry Primitives\practical1_demo\practical1_demo\p1_demo.cpp(294,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\Practicals\Practical 1 Intro to OpenGL & Geometry Primitives\practical1_demo\practical1_demo\p1_demo.cpp(302,12): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\Practicals\Practical 1 Intro to OpenGL & Geometry Primitives\practical1_demo\practical1_demo\p1_demo.cpp(303,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\Practicals\Practical 1 Intro to OpenGL & Geometry Primitives\practical1_demo\practical1_demo\p1_demo.cpp(312,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\Practicals\Practical 1 Intro to OpenGL & Geometry Primitives\practical1_demo\practical1_demo\p1_demo.cpp(313,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\Practicals\Practical 1 Intro to OpenGL & Geometry Primitives\practical1_demo\practical1_demo\p1_demo.cpp(321,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\Practicals\Practical 1 Intro to OpenGL & Geometry Primitives\practical1_demo\practical1_demo\p1_demo.cpp(322,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\Practicals\Practical 1 Intro to OpenGL & Geometry Primitives\practical1_demo\practical1_demo\p1_demo.cpp(332,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\Practicals\Practical 1 Intro to OpenGL & Geometry Primitives\practical1_demo\practical1_demo\p1_demo.cpp(333,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\Practicals\Practical 1 Intro to OpenGL & Geometry Primitives\practical1_demo\practical1_demo\p1_demo.cpp(341,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\Practicals\Practical 1 Intro to OpenGL & Geometry Primitives\practical1_demo\practical1_demo\p1_demo.cpp(342,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\Practicals\Practical 1 Intro to OpenGL & Geometry Primitives\practical1_demo\practical1_demo\p1_demo.cpp(350,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\Practicals\Practical 1 Intro to OpenGL & Geometry Primitives\practical1_demo\practical1_demo\p1_demo.cpp(351,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\Practicals\Practical 1 Intro to OpenGL & Geometry Primitives\practical1_demo\practical1_demo\p1_demo.cpp(359,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\Practicals\Practical 1 Intro to OpenGL & Geometry Primitives\practical1_demo\practical1_demo\p1_demo.cpp(360,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\Practicals\Practical 1 Intro to OpenGL & Geometry Primitives\practical1_demo\practical1_demo\p1_demo.cpp(367,19): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\Practicals\Practical 1 Intro to OpenGL & Geometry Primitives\practical1_demo\practical1_demo\p1_demo.cpp(367,13): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\Practicals\Practical 1 Intro to OpenGL & Geometry Primitives\practical1_demo\practical1_demo\p1_demo.cpp(369,12): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\Practicals\Practical 1 Intro to OpenGL & Geometry Primitives\practical1_demo\practical1_demo\p1_demo.cpp(370,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\Practicals\Practical 1 Intro to OpenGL & Geometry Primitives\practical1_demo\practical1_demo\p1_demo.cpp(377,20): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\Practicals\Practical 1 Intro to OpenGL & Geometry Primitives\practical1_demo\practical1_demo\p1_demo.cpp(377,13): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\Practicals\Practical 1 Intro to OpenGL & Geometry Primitives\practical1_demo\practical1_demo\p1_demo.cpp(379,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\Practicals\Practical 1 Intro to OpenGL & Geometry Primitives\practical1_demo\practical1_demo\p1_demo.cpp(380,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\Practicals\Practical 1 Intro to OpenGL & Geometry Primitives\practical1_demo\practical1_demo\p1_demo.cpp(389,18): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\Practicals\Practical 1 Intro to OpenGL & Geometry Primitives\practical1_demo\practical1_demo\p1_demo.cpp(391,13): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\Practicals\Practical 1 Intro to OpenGL & Geometry Primitives\practical1_demo\practical1_demo\p1_demo.cpp(392,18): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\Practicals\Practical 1 Intro to OpenGL & Geometry Primitives\practical1_demo\practical1_demo\p1_demo.cpp(392,13): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\Practicals\Practical 1 Intro to OpenGL & Geometry Primitives\practical1_demo\practical1_demo\p1_demo.cpp(394,18): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\Practicals\Practical 1 Intro to OpenGL & Geometry Primitives\practical1_demo\practical1_demo\p1_demo.cpp(394,13): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\Practicals\Practical 1 Intro to OpenGL & Geometry Primitives\practical1_demo\practical1_demo\p1_demo.cpp(395,18): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\Practicals\Practical 1 Intro to OpenGL & Geometry Primitives\practical1_demo\practical1_demo\p1_demo.cpp(395,13): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\Practicals\Practical 1 Intro to OpenGL & Geometry Primitives\practical1_demo\practical1_demo\p1_demo.cpp(397,19): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\Practicals\Practical 1 Intro to OpenGL & Geometry Primitives\practical1_demo\practical1_demo\p1_demo.cpp(397,13): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\Practicals\Practical 1 Intro to OpenGL & Geometry Primitives\practical1_demo\practical1_demo\p1_demo.cpp(398,18): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\Practicals\Practical 1 Intro to OpenGL & Geometry Primitives\practical1_demo\practical1_demo\p1_demo.cpp(398,13): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\Practicals\Practical 1 Intro to OpenGL & Geometry Primitives\practical1_demo\practical1_demo\p1_demo.cpp(400,13): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\Practicals\Practical 1 Intro to OpenGL & Geometry Primitives\practical1_demo\practical1_demo\p1_demo.cpp(401,19): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\Practicals\Practical 1 Intro to OpenGL & Geometry Primitives\practical1_demo\practical1_demo\p1_demo.cpp(401,13): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\Practicals\Practical 1 Intro to OpenGL & Geometry Primitives\practical1_demo\practical1_demo\p1_demo.cpp(403,19): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\Practicals\Practical 1 Intro to OpenGL & Geometry Primitives\practical1_demo\practical1_demo\p1_demo.cpp(403,13): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\Practicals\Practical 1 Intro to OpenGL & Geometry Primitives\practical1_demo\practical1_demo\p1_demo.cpp(404,19): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\Practicals\Practical 1 Intro to OpenGL & Geometry Primitives\practical1_demo\practical1_demo\p1_demo.cpp(404,13): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\Practicals\Practical 1 Intro to OpenGL & Geometry Primitives\practical1_demo\practical1_demo\p1_demo.cpp(406,20): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\Practicals\Practical 1 Intro to OpenGL & Geometry Primitives\practical1_demo\practical1_demo\p1_demo.cpp(406,13): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\Practicals\Practical 1 Intro to OpenGL & Geometry Primitives\practical1_demo\practical1_demo\p1_demo.cpp(407,19): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\Practicals\Practical 1 Intro to OpenGL & Geometry Primitives\practical1_demo\practical1_demo\p1_demo.cpp(407,13): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\Practicals\Practical 1 Intro to OpenGL & Geometry Primitives\practical1_demo\practical1_demo\p1_demo.cpp(413,18): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\Practicals\Practical 1 Intro to OpenGL & Geometry Primitives\practical1_demo\practical1_demo\p1_demo.cpp(415,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\Practicals\Practical 1 Intro to OpenGL & Geometry Primitives\practical1_demo\practical1_demo\p1_demo.cpp(416,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\Practicals\Practical 1 Intro to OpenGL & Geometry Primitives\practical1_demo\practical1_demo\p1_demo.cpp(425,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\Practicals\Practical 1 Intro to OpenGL & Geometry Primitives\practical1_demo\practical1_demo\p1_demo.cpp(426,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\Practicals\Practical 1 Intro to OpenGL & Geometry Primitives\practical1_demo\practical1_demo\p1_demo.cpp(433,18): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\Practicals\Practical 1 Intro to OpenGL & Geometry Primitives\practical1_demo\practical1_demo\p1_demo.cpp(435,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\Practicals\Practical 1 Intro to OpenGL & Geometry Primitives\practical1_demo\practical1_demo\p1_demo.cpp(436,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\Practicals\Practical 1 Intro to OpenGL & Geometry Primitives\practical1_demo\practical1_demo\p1_demo.cpp(445,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\Practicals\Practical 1 Intro to OpenGL & Geometry Primitives\practical1_demo\practical1_demo\p1_demo.cpp(446,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\Practicals\Practical 1 Intro to OpenGL & Geometry Primitives\practical1_demo\practical1_demo\p1_demo.cpp(453,18): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\Practicals\Practical 1 Intro to OpenGL & Geometry Primitives\practical1_demo\practical1_demo\p1_demo.cpp(455,12): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\Practicals\Practical 1 Intro to OpenGL & Geometry Primitives\practical1_demo\practical1_demo\p1_demo.cpp(456,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\Practicals\Practical 1 Intro to OpenGL & Geometry Primitives\practical1_demo\practical1_demo\p1_demo.cpp(463,18): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\Practicals\Practical 1 Intro to OpenGL & Geometry Primitives\practical1_demo\practical1_demo\p1_demo.cpp(465,12): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\Practicals\Practical 1 Intro to OpenGL & Geometry Primitives\practical1_demo\practical1_demo\p1_demo.cpp(466,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\Practicals\Practical 1 Intro to OpenGL & Geometry Primitives\practical1_demo\practical1_demo\p1_demo.cpp(474,12): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\Practicals\Practical 1 Intro to OpenGL & Geometry Primitives\practical1_demo\practical1_demo\p1_demo.cpp(475,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\Practicals\Practical 1 Intro to OpenGL & Geometry Primitives\practical1_demo\practical1_demo\p1_demo.cpp(483,18): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\Practicals\Practical 1 Intro to OpenGL & Geometry Primitives\practical1_demo\practical1_demo\p1_demo.cpp(484,18): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+  practical1_demo.vcxproj -> E:\Practicals\Practical 1 Intro to OpenGL & Geometry Primitives\practical1_demo\x64\Debug\practical1_demo.exe

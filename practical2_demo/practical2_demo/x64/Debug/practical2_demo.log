@@ -1,0 +1,17 @@
+﻿  p2_demo.cpp
+E:\Practicals\Practical 2 Geometry transformation Part 1\practical2_demo\practical2_demo\p2_demo.cpp(9,30): warning C4305: 'initializing': truncation from 'double' to 'float'
+E:\Practicals\Practical 2 Geometry transformation Part 1\practical2_demo\practical2_demo\p2_demo.cpp(12,14): warning C4305: 'initializing': truncation from 'double' to 'float'
+E:\Practicals\Practical 2 Geometry transformation Part 1\practical2_demo\practical2_demo\p2_demo.cpp(13,9): warning C4305: 'initializing': truncation from 'double' to 'float'
+E:\Practicals\Practical 2 Geometry transformation Part 1\practical2_demo\practical2_demo\p2_demo.cpp(15,10): warning C4305: 'initializing': truncation from 'double' to 'float'
+E:\Practicals\Practical 2 Geometry transformation Part 1\practical2_demo\practical2_demo\p2_demo.cpp(17,12): warning C4305: 'initializing': truncation from 'double' to 'float'
+E:\Practicals\Practical 2 Geometry transformation Part 1\practical2_demo\practical2_demo\p2_demo.cpp(200,7): warning C4305: '+=': truncation from 'double' to 'float'
+E:\Practicals\Practical 2 Geometry transformation Part 1\practical2_demo\practical2_demo\p2_demo.cpp(201,7): warning C4305: '+=': truncation from 'double' to 'float'
+E:\Practicals\Practical 2 Geometry transformation Part 1\practical2_demo\practical2_demo\p2_demo.cpp(202,7): warning C4305: '+=': truncation from 'double' to 'float'
+E:\Practicals\Practical 2 Geometry transformation Part 1\practical2_demo\practical2_demo\p2_demo.cpp(221,46): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+E:\Practicals\Practical 2 Geometry transformation Part 1\practical2_demo\practical2_demo\p2_demo.cpp(221,16): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+E:\Practicals\Practical 2 Geometry transformation Part 1\practical2_demo\practical2_demo\p2_demo.cpp(222,54): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+E:\Practicals\Practical 2 Geometry transformation Part 1\practical2_demo\practical2_demo\p2_demo.cpp(222,16): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+E:\Practicals\Practical 2 Geometry transformation Part 1\practical2_demo\practical2_demo\p2_demo.cpp(249,10): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+E:\Practicals\Practical 2 Geometry transformation Part 1\practical2_demo\practical2_demo\p2_demo.cpp(250,10): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+E:\Practicals\Practical 2 Geometry transformation Part 1\practical2_demo\practical2_demo\p2_demo.cpp(265,10): warning C4305: '+=': truncation from 'double' to 'float'
+  practical2_demo.vcxproj -> E:\Practicals\Practical 2 Geometry transformation Part 1\practical2_demo\x64\Debug\practical2_demo.exe
